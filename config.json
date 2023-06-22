@@ -1,7 +1,7 @@
 {
   "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
-  "proxy": "127.0.0.1:7890",
+  "proxy": "0.0.0.0:7890",
   "single_chat_prefix": [],
   "single_chat_reply_prefix": "[我是机器人]:",
   "group_chat_prefix": [],
